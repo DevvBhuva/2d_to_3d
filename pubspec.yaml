@@ -1,0 +1,23 @@
+name: flutter_3d_rendering
+description: A Flutter app that renders 3D models using flutter_cube.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_cube: ^0.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cube.obj  # 3D model file
+    - assets/cube.mtl
