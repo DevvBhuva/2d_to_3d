@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261931047792",
+    "project_id": "arch3d-ed576",
+    "storage_bucket": "arch3d-ed576.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261931047792:android:6300d9b10190a85093cdb5",
+        "android_client_info": {
+          "package_name": "com.example.sketch3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261931047792-ap5jqecitlrl40ide10583nf61fgclrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sketch3d",
+            "certificate_hash": "8e0191a7b37ded9bd27f21d1ddc0c126d1217d78"
+          }
+        },
+        {
+          "client_id": "261931047792-pr460q7e420ach6gnkueu8ld1n8m9tfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuK-7h3edKZCaJPdQnUPME1oqyuuKhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261931047792-pr460q7e420ach6gnkueu8ld1n8m9tfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
